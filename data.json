@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "root",
+      "name": "/",
+      "parent_id": null,
+      "children": [
+        "e12cb8c91e82"
+      ],
+      "tasks": []
+    },
+    {
+      "id": "e12cb8c91e82",
+      "name": "IProg",
+      "parent_id": "root",
+      "children": [],
+      "tasks": []
+    }
+  ],
+  "tasks": [],
+  "expanded": [],
+  "xp": 0,
+  "active_days": []
+}
